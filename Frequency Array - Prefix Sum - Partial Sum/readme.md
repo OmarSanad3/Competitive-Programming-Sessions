@@ -19,7 +19,7 @@
 - [Prefix Sum - Mostafa Saad](https://youtu.be/hqOqr6vFPp8)
 - [Partial Sum - Muhammed Afifi](https://youtu.be/vF78qRAAyx4)
 
-## Practic Problems
+## Practice Problems
 
 - [ICPC SCU sheet](https://codeforces.com/group/KQlzWufN6x/contest/376250)
 - [Assuits sheet #1](https://codeforces.com/group/c3FDl9EUi9/contest/262795)
